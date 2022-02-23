@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java,JavaScript,typescript,csharp**
 
-<img align="right" alt="jpg" width="250px" src="https://c.tenor.com/xwjN54qq-PAAAAAC/onepiece.gif" />
+<img align="right" alt="jpg" width="250px" src="https://www.omelete.com.br/webstories/ranking-dragonball-supersaiyajin/assets/2.gif" />
 - 📫 How to reach me **oerpvividossantos03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
