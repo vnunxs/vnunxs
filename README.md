@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java,JavaScript,typescript,csharp**
 
-<img align="right" alt="jpg" width="250px" src="https://i.pinimg.com/originals/42/ed/46/42ed4626ad6751d21e789fa67bf1aedd.gif" />
+<img align="right" alt="jpg" width="250px" src="[https://i.pinimg.com/originals/42/ed/46/42ed4626ad6751d21e789fa67bf1aedd.gif](https://i.pinimg.com/originals/f3/c0/f6/f3c0f6fd9432250fdf7547ac691cc02d.gif)" />
 - 📫 How to reach me **oerpvividossantos03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
